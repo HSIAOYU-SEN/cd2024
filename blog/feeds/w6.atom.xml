@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - W6</title><link href="./" rel="alternate"></link><link href="./feeds/w6.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T15:00:00+08:00</updated><entry><title>W6</title><link href="./W6.html" rel="alternate"></link><published>2024-03-29T15:00:00+08:00</published><updated>2024-03-29T06:34:44+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-29:./W6.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+
+
+&lt;h1&gt;W6分組任務&lt;/h1&gt;
+&lt;p&gt;在README新增能把子模組更新到最新的狀態的指令&lt;/p&gt;</content><category term="W6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>

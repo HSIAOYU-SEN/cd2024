@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-22T15:00:00+08:00</updated><entry><title>W5</title><link href="./W5.html" rel="alternate"></link><published>2024-03-22T15:00:00+08:00</published><updated>2024-03-22T08:20:50+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-22:./W5.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-03-29T15:00:00+08:00</updated><entry><title>W6</title><link href="./W6.html" rel="alternate"></link><published>2024-03-29T15:00:00+08:00</published><updated>2024-03-29T06:34:44+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-29:./W6.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
+
+
+&lt;h1&gt;W6分組任務&lt;/h1&gt;
+&lt;p&gt;在README新增能把子模組更新到最新的狀態的指令&lt;/p&gt;</content><category term="W6"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W5</title><link href="./W5.html" rel="alternate"></link><published>2024-03-22T15:00:00+08:00</published><updated>2024-03-29T06:30:30+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-22:./W5.html</id><summary type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/22 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W5分組任務&lt;/h1&gt;
 &lt;p&gt;將教學影片分組整理和自評 
 並放在小組團隊的blog上&lt;/p&gt;
-&lt;p&gt;第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;小組blog&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./W4.html" rel="alternate"></link><published>2024-03-15T15:00:00+08:00</published><updated>2024-03-15T08:01:50+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-15:./W4.html</id><summary type="html">&lt;p&gt;2024/03/15 上課內容&lt;/p&gt;
+&lt;p&gt;第三組&lt;a href="https://mdecd2024.github.io/2a-midag3/blog/W4.html"&gt;小組blog&lt;/a&gt;&lt;/p&gt;</content><category term="W5"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W4</title><link href="./W4.html" rel="alternate"></link><published>2024-03-15T15:00:00+08:00</published><updated>2024-03-29T06:30:14+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-15:./W4.html</id><summary type="html">&lt;p&gt;2024/03/15 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/15 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W4分組任務&lt;/h1&gt;
 &lt;p&gt;將"cd2024_2a_w2_3_如何建立各組的 Team midag1 並利用 Codespaces 維護內容"上字幕、逐字稿和大綱
-&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/41123149_nfu_edu_tw/EpBuGN3U99VEorrRqQrR6i0BNTp_hXlkuc7GbM0dt34z2A?e=GxOgJH"&gt;檔案&lt;/a&gt;&lt;/p&gt;</content><category term="W4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./W3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-03-22T08:14:48+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-08:./W3.html</id><summary type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
+&lt;a href="https://nfuedu-my.sharepoint.com/:f:/g/personal/41123149_nfu_edu_tw/EpBuGN3U99VEorrRqQrR6i0BNTp_hXlkuc7GbM0dt34z2A?e=GxOgJH"&gt;檔案&lt;/a&gt;&lt;/p&gt;</content><category term="W4"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W3</title><link href="./W3.html" rel="alternate"></link><published>2024-03-08T15:00:00+08:00</published><updated>2024-03-29T06:30:02+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-08:./W3.html</id><summary type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/08 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W3任務&lt;/h1&gt;
 &lt;p&gt;將組員的個人倉儲設為分組倉儲子模組
-翻譯 ODOO PLM 在協同產品設計上的應用&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./W2.html" rel="alternate"></link><published>2024-03-01T15:00:00+08:00</published><updated>2024-03-15T07:33:24+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-01:./W2.html</id><summary type="html">&lt;p&gt;2024/03/01 上課內容&lt;/p&gt;
+翻譯 ODOO PLM 在協同產品設計上的應用&lt;/p&gt;</content><category term="W3"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W2</title><link href="./W2.html" rel="alternate"></link><published>2024-03-01T15:00:00+08:00</published><updated>2024-03-29T06:29:47+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-03-01:./W2.html</id><summary type="html">&lt;p&gt;2024/03/01 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/03/01 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;加入小組並維護網站&lt;/h1&gt;
-&lt;p&gt;第三組 &lt;a href="https://github.com/mdecd2024/2a-midag3.git"&gt;倉儲連結&lt;/a&gt;&lt;/p&gt;</content><category term="W2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./W1.html" rel="alternate"></link><published>2024-02-23T15:00:00+08:00</published><updated>2024-03-15T07:33:16+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-02-23:./W1.html</id><summary type="html">&lt;p&gt;2024/02/23 上課內容&lt;/p&gt;
+&lt;p&gt;第三組 &lt;a href="https://github.com/mdecd2024/2a-midag3.git"&gt;倉儲連結&lt;/a&gt;&lt;/p&gt;</content><category term="W2"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>W1</title><link href="./W1.html" rel="alternate"></link><published>2024-02-23T15:00:00+08:00</published><updated>2024-03-29T06:29:38+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-02-23:./W1.html</id><summary type="html">&lt;p&gt;2024/02/23 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/02/23 上課內容&lt;/p&gt;
 
 
@@ -32,7 +37,7 @@
 &lt;h1&gt;建立倉儲 cd2024&lt;/h1&gt;
 &lt;p&gt;41123149 &lt;a href="https://github.com/HSIAOYU-SEN/cd2024"&gt;倉儲連結&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;建立cd2024網站&lt;/h1&gt;
-&lt;p&gt;41123149 &lt;a href="https://hsiaoyu-sen.github.io/cd2024/"&gt;網站連結&lt;/a&gt;&lt;/p&gt;</content><category term="W1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-01T08:00:18+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
+&lt;p&gt;41123149 &lt;a href="https://hsiaoyu-sen.github.io/cd2024/"&gt;網站連結&lt;/a&gt;&lt;/p&gt;</content><category term="W1"></category><category term="網誌編寫"></category><category term="pelican"></category></entry><entry><title>2024 Spring 課程</title><link href="./2024-Spring-w1-blog-tutorial.html" rel="alternate"></link><published>2024-02-18T11:00:00+08:00</published><updated>2024-03-29T06:28:03+08:00</updated><author><name>kmol</name></author><id>tag:None,2024-02-18:./2024-Spring-w1-blog-tutorial.html</id><summary type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024 Spring 網際內容管理與協同產品設計實習課程教學導引.&lt;/p&gt;
 
 

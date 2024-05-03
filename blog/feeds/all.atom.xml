@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T05:43:47+08:00</updated><entry><title>W10</title><link href="./W10.html" rel="alternate"></link><published>2024-04-26T15:00:00+08:00</published><updated>2024-05-03T05:43:47+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-04-26:./W10.html</id><summary type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習</title><link href="./" rel="alternate"></link><link href="./feeds/all.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T05:47:46+08:00</updated><entry><title>W10</title><link href="./W10.html" rel="alternate"></link><published>2024-04-26T15:00:00+08:00</published><updated>2024-05-03T05:47:46+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-04-26:./W10.html</id><summary type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/04/26 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W10分組任務&lt;/h1&gt;
-&lt;p&gt;任務一:
-建立2a各學員的倉儲、網站與分組連結
-以下為分組程式:&lt;/p&gt;
+&lt;p&gt;任務一:&lt;/p&gt;
+&lt;p&gt;建立2a各學員的倉儲、網站與分組連結&lt;/p&gt;
+&lt;p&gt;以下為各學員的倉儲程式&lt;/p&gt;
 &lt;pre class="brush: python"&gt;
 
   from browser import window, ajax, document, html

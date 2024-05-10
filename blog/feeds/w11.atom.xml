@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - W11</title><link href="./" rel="alternate"></link><link href="./feeds/w11.atom.xml" rel="self"></link><id>./</id><updated>2024-05-03T15:00:00+08:00</updated><entry><title>W11</title><link href="./W11.html" rel="alternate"></link><published>2024-05-03T15:00:00+08:00</published><updated>2024-05-03T09:12:27+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-05-03:./W11.html</id><summary type="html">&lt;p&gt;2024/05/03 上課內容&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習 - W11</title><link href="./" rel="alternate"></link><link href="./feeds/w11.atom.xml" rel="self"></link><id>./</id><updated>2024-05-10T08:21:51+08:00</updated><entry><title>W11</title><link href="./W11.html" rel="alternate"></link><published>2024-05-03T15:00:00+08:00</published><updated>2024-05-10T08:21:51+08:00</updated><author><name>41123149</name></author><id>tag:None,2024-05-03:./W11.html</id><summary type="html">&lt;p&gt;2024/05/03 上課內容&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;2024/05/03 上課內容&lt;/p&gt;
 
 
 &lt;h1&gt;W11分組任務&lt;/h1&gt;
 &lt;p&gt;將個人心得上傳至各組專案上&lt;/p&gt;
+&lt;p&gt;心得:&lt;/p&gt;
+&lt;p&gt;這門協同產品設計課程讓我學會了如何使用 github 來更新blog，並使用Replit、Codespaces去維護個人或分組網站，雖然學得不是很深，但我還是持續努力完成每周的分組作業。&lt;/p&gt;
 &lt;p&gt;連結&lt;a href="https://mdecd2024.github.io/2astud-2asite/content/g3.html"&gt;g3&lt;/a&gt;&lt;/p&gt;</content><category term="W11"></category><category term="網誌編寫"></category><category term="pelican"></category></entry></feed>
